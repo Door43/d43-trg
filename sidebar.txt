@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[trg:home|Door43 (trg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-trg|d43-trg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-trg/archive/master.zip|d43-trg.zip]]
+
+**Recent Changes**
+{{changes>ns = trg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/trg|Ethnologue data]]
+
